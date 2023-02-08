@@ -1,4 +1,4 @@
-# Grid provider for terraform
+# Grid provider for Terraform
 
  - A resource, and a data source (`internal/provider/`),
  - Examples (`examples/`) 
@@ -76,7 +76,7 @@ resource "grid_deployment" "d1" {
 
 ## Using the provider
 
-to create your twin please check [grid substrate getting started](grid_substrate_getting_started)
+to create your twin please check [grid substrate getting started](grid3_tfchain_init_testnet)
 
 ```bash
 ./msgbusd --twin <TWIN_ID> #run message bus with your twin id

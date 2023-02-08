@@ -1,11 +1,8 @@
 ## TFChain on mainnet
 
-!!!include grid3_portal_notice
+!!!include dashboard_portal_home
 
 For deployments, you'll need a TF-Chain account and a twin registered. You'll need both your mnemonic phrase and TwinID to pass to the Terraform plugin.
-
-#### Important notes:
-!!!include grid3_portal_notice
 
 - You must choose `ed25519` as the "crypto type" when setting up your account
 - The testnet used real TFT, which can be transferred from Stellar over the Stellar-Substrate Bridge (url TO DO).

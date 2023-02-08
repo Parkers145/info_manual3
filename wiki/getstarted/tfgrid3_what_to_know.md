@@ -18,7 +18,7 @@ When you want to have a public IP assigned to your workload, you need to reserve
 
 ## Exposing the workloads to the public
 
-Typically, if you reserved a public IP you can do that directly and create a domain referencing you public IP. Threefold provides also [Webgateway technology](threefold:webgateway3) a very cost-efficient technology to help with exposing your workloads
+Typically, if you reserved a public IP you can do that directly and create a domain referencing you public IP. Threefold provides also [Webgateway technology](https://library.threefold.me/info/threefold#/technology/threefold__webgw?id=webgw-20) a very cost-efficient technology to help with exposing your workloads
 
 ### how it works
 Basically you create a `domain reservation` that can be 
@@ -54,14 +54,13 @@ You can easily check using [explorer-ui](@explorer_home) , also to plan your dep
 
 ## Getting started
 
-Please check [Getting started](@grid3_get_started) to get the necessary software / configurations
+Please check [Getting started](https://library.threefold.me/info/manual/#/getstarted/manual__tfgrid3_getstarted) to get the necessary software / configurations
 
 
 For detailed information check
 
-- [Overview](@grid3_overview)
 - [Components Interaction](@grid3_components)
 - [Definitions](@grid3_definitions)
 - [ZOS Primitives](threefold:tfgrid_primitives)
-- [Getting started](@grid3_get_started)
+- [Getting started](https://library.threefold.me/info/manual/#/getstarted/manual__tfgrid3_getstarted)
 - [Proof of Utilization](@proof_of_utilization_manual)

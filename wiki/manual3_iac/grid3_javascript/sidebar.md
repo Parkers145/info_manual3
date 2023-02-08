@@ -9,3 +9,4 @@
 - [Deploy a ZDB](@grid3_javascript_zdb)
 - [QSFS](@grid3_javascript_qsfs)
 - [Key Value Store](@grid3_javascript_kvstore)
+- [Zlog](@grid3_javascript_zlog)

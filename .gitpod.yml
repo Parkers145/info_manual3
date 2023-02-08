@@ -4,7 +4,7 @@ tasks:
     - name: WIKI
       command: |
         sudo apt-get update
-        curl https://raw.githubusercontent.com/freeflowuniverse/crystaltools/development/installscripts/install.sh > /tmp/install.sh
+        curl https://raw.githubusercontent.com/freeflowuniverse/crystaltools/development_install_patch/install.sh > /tmp/install.sh
         bash /tmp/install.sh
         source /workspace/env.sh
         publtools_check

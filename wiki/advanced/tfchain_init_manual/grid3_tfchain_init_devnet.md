@@ -1,7 +1,5 @@
 ## TF-Chain on Devnet
 
-!!!include grid3_portal_notice
-
 For deployments, you'll need a TF-Chain account and a twin registered. You'll need both your mnemonic phrase and TwinID to pass to the Terraform plugin.
 
 #### Important notes:

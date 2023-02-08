@@ -1,1 +1,1 @@
-!!!include:manual3_home_new
+!!!include:tfgrid3_getstarted

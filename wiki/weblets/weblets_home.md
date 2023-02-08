@@ -13,9 +13,10 @@ __Advantages__ :
 
 ## Weblets list
 
-There are several weblets you can use like: 
+There are several weblets you can use like:
 
 - Basic Environments:
+  - [Full Virtual Machine](weblets_fullvm)
   - [Virtual Machine](weblets_vm)
   - [Kubernetes](weblets_k8s)
 
@@ -27,6 +28,7 @@ There are several weblets you can use like:
   - [Owncloud](weblets_owncloud)
   - [Discourse](weblets_discourse)
   - [Mattermost](weblets_mattermost)
+  - [Mastodon](weblets_mastodon)
   - [Presearch](weblets_presearch)
   - [CasperLabs](weblets_casper)
   - [Node Pilot](weblets_nodepilot)
@@ -37,7 +39,9 @@ There are several weblets you can use like:
   - [Deployment List](weblets_deployments_list)
 
 ## Playground
+
 Playground is a Vue app that has the weblets embedded. so you can try it out on different TF Chain networks.
+
 - [https://play.dev.grid.tf](https://play.dev.grid.tf) for Devnet.
 - [https://play.qa.grid.tf](https://play.qa.grid.tf) for QAnet.
 - [https://play.test.grid.tf](https://play.test.grid.tf) for Testnet.
@@ -45,6 +49,6 @@ Playground is a Vue app that has the weblets embedded. so you can try it out on 
 
 ## Limitations
 
-- Regarding browser support, we're only supporting Google Chrome browser at the moment with more browsers to be supported soon. 
+- Regarding browser support, we're only supporting Google Chrome browser at the moment with more browsers to be supported soon.
 - Deploys one thing at a time.
 - Might take sometime to deploy a solution like Peertube, so you should wait a little bit until it's fully running.

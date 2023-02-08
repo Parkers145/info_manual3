@@ -130,3 +130,82 @@ You'll need this address when registering your twin on TF Chain in the next step
 # Clients
 
 - [planetary network connector](https://github.com/threefoldtech/planetary_network)
+
+### Peers
+
+#### Central europe
+
+##### Ghent
+- tcp://gent01.grid.tf:9943
+- tcp://gent02.grid.tf:9943
+- tcp://gent03.grid.tf:9943
+- tcp://gent04.grid.tf:9943
+- tcp://gent01.test.grid.tf:9943
+- tcp://gent02.test.grid.tf:9943
+- tcp://gent01.dev.grid.tf:9943
+- tcp://gent02.dev.grid.tf:9943
+
+#### Austria
+- tcp://gw291.vienna1.greenedgecloud.com:9943
+- tcp://gw293.vienna1.greenedgecloud.com:9943
+- tcp://gw294.vienna1.greenedgecloud.com:9943
+- tcp://gw297.vienna1.greenedgecloud.com:9943
+- tcp://gw298.vienna1.greenedgecloud.com:9943
+- tcp://gw299.vienna2.greenedgecloud.com:9943
+- tcp://gw300.vienna2.greenedgecloud.com:9943
+- tcp://gw304.vienna2.greenedgecloud.com:9943
+- tcp://gw306.vienna2.greenedgecloud.com:9943
+- tcp://gw307.vienna2.greenedgecloud.com:9943
+- tcp://gw309.vienna2.greenedgecloud.com:9943
+- tcp://gw313.vienna2.greenedgecloud.com:9943
+- tcp://gw324.salzburg1.greenedgecloud.com:9943
+- tcp://gw326.salzburg1.greenedgecloud.com:9943
+- tcp://gw327.salzburg1.greenedgecloud.com:9943
+- tcp://gw328.salzburg1.greenedgecloud.com:9943
+- tcp://gw330.salzburg1.greenedgecloud.com:9943
+- tcp://gw331.salzburg1.greenedgecloud.com:9943
+- tcp://gw333.salzburg1.greenedgecloud.com:9943
+- tcp://gw422.vienna2.greenedgecloud.com:9943
+- tcp://gw423.vienna2.greenedgecloud.com:9943
+- tcp://gw424.vienna2.greenedgecloud.com:9943
+- tcp://gw425.vienna2.greenedgecloud.com:9943
+
+### Peers config for usage in every Yggdrasil - Planetary Network client
+          Peers:
+        [
+    # Threefold Lochrist
+    tcp://gent01.grid.tf:9943
+    tcp://gent02.grid.tf:9943
+    tcp://gent03.grid.tf:9943
+    tcp://gent04.grid.tf:9943
+    tcp://gent01.test.grid.tf:9943
+    tcp://gent02.test.grid.tf:9943
+    tcp://gent01.dev.grid.tf:9943
+    tcp://gent02.dev.grid.tf:9943
+    # GreenEdge
+    tcp://gw291.vienna1.greenedgecloud.com:9943
+    tcp://gw293.vienna1.greenedgecloud.com:9943
+    tcp://gw294.vienna1.greenedgecloud.com:9943
+    tcp://gw297.vienna1.greenedgecloud.com:9943
+    tcp://gw298.vienna1.greenedgecloud.com:9943
+    tcp://gw299.vienna2.greenedgecloud.com:9943
+    tcp://gw300.vienna2.greenedgecloud.com:9943
+    tcp://gw304.vienna2.greenedgecloud.com:9943
+    tcp://gw306.vienna2.greenedgecloud.com:9943
+    tcp://gw307.vienna2.greenedgecloud.com:9943
+    tcp://gw309.vienna2.greenedgecloud.com:9943
+    tcp://gw313.vienna2.greenedgecloud.com:9943
+    tcp://gw324.salzburg1.greenedgecloud.com:9943
+    tcp://gw326.salzburg1.greenedgecloud.com:9943
+    tcp://gw327.salzburg1.greenedgecloud.com:9943
+    tcp://gw328.salzburg1.greenedgecloud.com:9943
+    tcp://gw330.salzburg1.greenedgecloud.com:9943
+    tcp://gw331.salzburg1.greenedgecloud.com:9943
+    tcp://gw333.salzburg1.greenedgecloud.com:9943
+    tcp://gw422.vienna2.greenedgecloud.com:9943
+    tcp://gw423.vienna2.greenedgecloud.com:9943
+    tcp://gw424.vienna2.greenedgecloud.com:9943
+    tcp://gw425.vienna2.greenedgecloud.com:9943
+          ]
+
+

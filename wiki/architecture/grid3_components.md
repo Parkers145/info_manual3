@@ -15,7 +15,7 @@ Node uses the same verification mechanism against requests from twins.
 - `entity`: this represents a legal entity or a person, the entity is the public key of the user associated with name, country, and a unique identifier.
 - `twin`: represents the management interface that can be accessed over the Yggdrasil IPv6 address. A twin is associated also with a single public key.
 
-On the grid, we build on top of the above concepts a more sophisticated logic to represent the following: (note, full types specifications can be found here)
+On the grid, we build on top of the above concepts a more sophisticated logic to represent the following: (note, full types specifications can be found [here](https://library.threefold.me/info/threefold#/getstarted/manual__tfchain_home))
 - farm: a farm is associated
   - `twin-id`: the communication endpoint for this farm.
 - node:  associated with

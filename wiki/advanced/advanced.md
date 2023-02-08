@@ -26,3 +26,4 @@ Advanced topics to do with TFGrid 3.0.
 - [cancel contracts](cancel_contracts)
 - [contract bills reports](contract_bill_report)
 - [listing free public ips](list_public_ips)
+- [Become a Solution Provider](tfchain_solution_provider)

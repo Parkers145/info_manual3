@@ -28,10 +28,11 @@ There is no direct control from the farmer (in the first case the farmer could a
 
 ### Usage
 
-- See list of all dedicated node on `Dedicated Nodes` tab on the portal.
+- See list of all rentable node on `Rentable` tab in the dedicated nodes table.
 
     ![ ](img/dedicated_nodes.png)
   - Hover on price to see discount
+    ![](img/dedicated_nodes_discount.png)
   - Expand row to see more info on the node:
   
     ![ ](img/node_info.png)
@@ -43,12 +44,27 @@ There is no direct control from the farmer (in the first case the farmer could a
     - Free
     - Reserved *Owned by current twin*
     - Taken *Owned by another twin*
+  - You can check the nodes with each of these states in its separate tab.
+    - Rentable
+      This tab shows all of the nodes that can be rented.
+      ![](img/dedicated_nodes.png)
+    - Rented
+      This tab shows all of the nodes that are rented by you or by other users.
+      ![](img/dedicated_nodes_rented.png)
+    - Mine
+      This tab shows nodes that are only rented by you.
+      ![](img/dedicated_nodes_mine.png)
 - Reserve a node:
   - If node is not rented by another twin you can simply click reserve.
   - Type your password on the polkadot pop up window.
   - Wait for the pop up message said `Transaction succeeded`
 
     ![ ](img/rented_succeeded.png)
+  - The node should disappear from the `Rentable` tab.
+  - The node should appear in both the `Rented` & `Mine` tabs
 
 - Unreserve a node:
   - Simply as reserving but another check will be done to check you don't have any active workoad on the node before unreserving.
+  - The node should disappear from both the `Rented` & `Mine` tabs and should reappear in the `Rentable tab`
+
+>Note: Users should also be able to reserve dedicated nodes even if the node is offline.

@@ -48,7 +48,7 @@ This pallet saves this data to storage and returns the user a `contract_id`.
 
 ### 2: The user sends the contractID and workload through the RMB to the destination Node.
 
-The Node reads from the [RMB](threefold:rmb_architecture) and sees a deploy command, it reads the contractID and workload definition from the payload.
+The Node reads from the [RMB](https://github.com/threefoldtech/rmb) and sees a deploy command, it reads the contractID and workload definition from the payload.
 It decodes the workload and reads the contract from chain using the contract ID, the Node will check if the user that created the contract and the deployment hash on the contract is the same as what the Node receives over RMB. If all things check out, the Node deploys the workload.
 
 ### 3: The Node sends consumption reports to the chain

@@ -1,7 +1,7 @@
 
 # Create an Account for TFChain using Polkadot UI
 
-> make sure [extension is installed](dashboard_portal_polkadot_widget)
+> make sure the [extension is installed](dashboard_portal_polkadot_widget)
 
 You will be asked to create a new account or to recover an existing account.
 

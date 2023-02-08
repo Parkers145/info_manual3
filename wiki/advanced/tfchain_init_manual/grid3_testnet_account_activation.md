@@ -1,6 +1,6 @@
 ## Creating an Account on TFChain 
 
-!!!include grid3_portal_notice
+!!!include dashboard_portal_home
 
 ### Step 1: Go to the TFChain UI
 

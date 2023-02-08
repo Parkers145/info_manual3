@@ -1,6 +1,6 @@
 ## TFChain on Testnet
 
-!!!include grid3_portal_notice
+!!!include dashboard_portal_home
 
 For deployments, you'll need a TF-Chain account and a twin registered. You'll need both your mnemonic phrase and TwinID to pass to the Terraform plugin.
 

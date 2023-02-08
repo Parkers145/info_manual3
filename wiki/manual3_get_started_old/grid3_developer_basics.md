@@ -18,7 +18,7 @@ When you want to have a public IP assigned to your workload, you need to reserve
 
 ## Exposing the workloads to the public
 
-Typically, if you reserved a public IP you can do that directly and create a domain referencing you public IP. Threefold provides also [Webgateway technology](threefold:webgateway3) a very cost-efficient technology to help with exposing your workloads
+Typically, if you reserved a public IP you can do that directly and create a domain referencing you public IP. Threefold provides also [Webgateway technology](https://library.threefold.me/info/threefold#/technology/threefold__webgw?id=webgw-2) a very cost-efficient technology to help with exposing your workloads
 
 ### how it works
 Basically you create a `domain reservation` that can be 
