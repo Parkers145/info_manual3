@@ -18,7 +18,7 @@
 
 <h2>Main Sections</h2>
 
-- [General FAQ]
+- [General FAQ](# GENERAL FAQ)
 - [Users FAQ]
 - [Developers FAQ]
 - [Validators FAQ]
