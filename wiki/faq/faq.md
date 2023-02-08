@@ -2540,11 +2540,11 @@
 
     It has been stated that Dell servers are quieter than HP. For Dell, R710-R720 are quieter than Compellent. You can check the server's manual and see directly the noise they produce in decibels.
 
-    Note that serves generate *white noise*. White noise is often used for sound masking. For some, it helps them to relax and to fall asleep. A server in your bedroom, why not?
+    Note that servers generate *white noise*. White noise is often used for sound masking. For some, it helps them to relax and to fall asleep. A server in your bedroom, why not?
 
 </details>
 
-- <details><summary>Are there ways to reduce 3node serves' noises?</summary>&nbsp;
+- <details><summary>Are there ways to reduce 3node servers' noises?</summary>&nbsp;
 
     To reduce the noise, you can remove all the unnecessary cards in the servers as well as the HDD disks if you don't use them. Unplugging the SAS cables can also help. You can also set the fans to adjust their speed instead of being constant.
 
