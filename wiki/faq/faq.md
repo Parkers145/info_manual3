@@ -18,20 +18,23 @@
 
 <h2>Main Sections</h2>
 
-<ul>
-<li><a href="#manual__faq?id=general-faq">GENERAL FAQ</a>
-<li><a href="#manual__faq?id=users-faq">USERS FAQ</a>
-<li><a href="#manual__faq?id=developers-faq">DEVELOPERS FAQ</a>
-<li><a href="#manual__faq?id=validators-faq">VALIDATORS FAQ</a>
-<li><a href="#manual__faq?id=farmers-faq">FARMERS FAQ</a>
-</li>
-</ul>
-
-
-
+- [General FAQ]
+- [Users FAQ]
+- [Developers FAQ]
+- [Validators FAQ]
 
 # GENERAL FAQ
 ![wethreepedia_grid](img/tf_general.jpg)
+
+<h3>General FAQ Sections<h3>
+
+- [Basic Facts]
+- [Threefold Communication]
+- [The Technology of Threefold]
+- [Buying and Transacting TFT]
+- [TF Connect App, TF Dashboard, GraphQL, Grix Proxy and Polkadot Substrate]
+- [Threefold Commercial Grid Services]
+
 
 ## Basic Facts
 
@@ -865,6 +868,15 @@
 
 ![wethreepedia_grid](img/tf_grid.png)
 
+<h3>Users FAQ Sections<h3>
+
+- [TF Grid Functionalities]
+- [Deployments on the Threefold Grid]
+- [Tutorials and Guides]
+- [Terraform]
+- [Users Troubleshooting and Error Messages]
+- [Threefold Connect App]
+
 ## TF Grid Functionalities
 
 - <details><summary>How can I filter 3nodes by country and by network (IPv4, IPv6 and Planetary Network)?</summary>
@@ -1415,6 +1427,11 @@
 # DEVELOPERS FAQ
 ![wethreepedia_developer](img/wethreepedia_developer.png)
 
+<h3>Developers FAQ Sections<h3>
+
+- [General Information for Developer]
+- [Dev Net & Test Net]
+
 ## General Information for Developer
 
 - <details><summary>Can I use a docker with the Threefold Grid?</summary>
@@ -1507,6 +1524,12 @@
 
 # VALIDATORS FAQ
 ![wethreepedia_validator](img/wethreepedia_validator.jpg)
+
+<h3>Validators FAQ Sections<h3>
+
+- [General Information of Validator]
+- [Validator Requirements]
+- [Application to run a Validator Node]
 
 ## General Information of Validator
 
@@ -1665,6 +1688,19 @@
 
 # FARMERS FAQ
 ![wethreepedia_grid](img/3nodes.png)
+
+<h3>Farmers FAQ Sections<h3>
+
+- [TFT Farming Basics]
+- [Farming Rewards and Related Notions]
+- [3node Farming Requirements]
+- [Building a 3node - Steps and Details]
+- [Farming Optimization]
+- [Farming and Maintenance]
+- [Troubleshooting and Error Messages]
+- [Threefold Grid and Data]
+- [Memory]
+
 ## TFT Farming Basics
 
 - <details><summary>How can I create a Threefold farm?</summary>
