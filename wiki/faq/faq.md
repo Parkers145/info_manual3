@@ -18,22 +18,22 @@
 
 <h2>Main Sections</h2>
 
-- [General FAQ](#-general-faq)
-- [Users FAQ]
-- [Developers FAQ]
-- [Validators FAQ]
+- [General FAQ](#general-faq)
+- [Users FAQ](#users-faq)
+- [Developers FAQ](#developers-faq)
+- [Validators FAQ](#validators-faq)
 
 # GENERAL FAQ
 ![wethreepedia_grid](img/tf_general.jpg)
 
 <h3>General FAQ Sections<h3>
 
-- [Basic Facts]
-- [Threefold Communication]
-- [The Technology of Threefold]
-- [Buying and Transacting TFT]
-- [TF Connect App, TF Dashboard, GraphQL, Grix Proxy and Polkadot Substrate]
-- [Threefold Commercial Grid Services]
+- [Basic Facts](#basic-facts)
+- [Threefold Communication](#threefold-communication)
+- [The Technology of Threefold](#the-technology-of-threefold)
+- [Buying and Transacting TFT](#buying-and-transacting-tft)
+- [TF Connect App TF Dashboard GraphQL Grid Proxy and Polkadot Substrate](#tf-connect-app-tf-dashboard-graphql-grid-proxy-and-polkadot-substrate)
+- [Threefold Commercial Grid Services](#threefold-commercial-grid-services)
 
 
 ## Basic Facts
@@ -626,7 +626,7 @@
 
 ***
 
-## TF Connect App, TF Dashboard, GraphQL, Grix Proxy and Polkadot Substrate
+## TF Connect App TF Dashboard GraphQL Grid Proxy and Polkadot Substrate
 
 - <details><summary>What is the Threefold Connect App download link?</summary>
 
@@ -870,12 +870,12 @@
 
 <h3>Users FAQ Sections<h3>
 
-- [TF Grid Functionalities]
-- [Deployments on the Threefold Grid]
-- [Tutorials and Guides]
-- [Terraform]
-- [Users Troubleshooting and Error Messages]
-- [Threefold Connect App]
+- [TF Grid Functionalities](#tf-grid-functionalities)
+- [Deployments on the Threefold Grid](#deployments-on-the-threefold-grid)
+- [Tutorials and Guides](#tutorials-and-guides)
+- [Terraform](#terraform)
+- [Users Troubleshooting and Error Messages](#users-troubleshooting-and-error-messages)
+- [Threefold Connect App](#threefold-connect-app)
 
 ## TF Grid Functionalities
 
@@ -1429,8 +1429,8 @@
 
 <h3>Developers FAQ Sections<h3>
 
-- [General Information for Developer]
-- [Dev Net & Test Net]
+- [General Information for Developer](#general-information-for-developer)
+- [Dev Net & Test Net](#dev-net-&-test-net)
 
 ## General Information for Developer
 
@@ -1527,9 +1527,9 @@
 
 <h3>Validators FAQ Sections<h3>
 
-- [General Information of Validator]
-- [Validator Requirements]
-- [Application to run a Validator Node]
+- [General Information of Validator](#general-information-of-validator)
+- [Validator Requirements](#validator-requirements)
+- [Application to run a Validator Node](#application-to-run-a-validator-node)
 
 ## General Information of Validator
 
@@ -1691,15 +1691,15 @@
 
 <h3>Farmers FAQ Sections<h3>
 
-- [TFT Farming Basics]
-- [Farming Rewards and Related Notions]
-- [3node Farming Requirements]
-- [Building a 3node - Steps and Details]
-- [Farming Optimization]
-- [Farming and Maintenance]
-- [Troubleshooting and Error Messages]
-- [Threefold Grid and Data]
-- [Memory]
+- [TFT Farming Basics](#tft-farming-basics)
+- [Farming Rewards and Related Notions](#farming-rewards-and-related-notions)
+- [3node Farming Requirements](#3node-farming-requirements)
+- [Building a 3node - Steps and Details](#building-a-3node-steps-and-details)
+- [Farming Optimization](#farming-optimization)
+- [Farming and Maintenance](#farming-and-maintenance)
+- [Troubleshooting and Error Messages](#troubleshooting-and-error-messages)
+- [Threefold Grid and Data](#threefold-grid-and-data)
+- [Memory](#memory)
 
 ## TFT Farming Basics
 
@@ -2226,7 +2226,7 @@
 
 </details>
 
-## Building a 3node - Steps and Details
+## Building a 3node Steps and Details
 
 - <details><summary>What are the main steps to build a DIY 3node, from start to finish?</summary>
 
