@@ -40,8 +40,9 @@
 
 - <details><summary>What is the the Threefold blockchain?</summary>&nbsp;
 
-    ThreeFold blockchain is the layer 0 infrastructure for an open source peer-to-peer (P2P) Internet owned by humanity.
-
+    ```diff
+    + ThreeFold blockchain is the layer 0 infrastructure for an open source peer-to-peer (P2P) Internet owned by humanity.
+    ```
 </details>
 
 - <details><summary>What is the architecture of the Threefold Grid in simple terms?</summary>&nbsp;
@@ -69,7 +70,7 @@
 
 - <details><summary>How are the TFT managed?</summary>&nbsp;
 
-    
+    TFT are managed by the ThreeFold Blockchain (“TF Chain”).
 
 </details>
 
