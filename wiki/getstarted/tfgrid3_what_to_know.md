@@ -57,7 +57,7 @@ ___
 </summary>
 
 
-The simplest of Compute deployments is VM workload, This can either be A Full Fledged Linux Virtual Machine Or a [flist-based](@threefold:zos_fs) container
+The simplest of Compute deployments is a VM workload, This can either be A Full Fledged Linux Virtual Machine Or a [flist-based](@threefold:zos_fs) container
 
 ### How can I create an flist?
 
