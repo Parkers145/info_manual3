@@ -1,5 +1,0 @@
-# Customizing your Ubuntu Full VM Image on the Threefold Grid 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If your deployment solution has reached the point that you need to start deploying multiple instances of a system image it is possible to create a custom FList that allows you to deploy a customized image that is fully prepared for your use on deployment. 
-	
-- you can find a detailed written tutorial here, [Manipulating Cloud Images for the Grid](https://forum.threefold.io/t/manipulating-cloud-images-for-the-grid/3380)
-- There is a video tutorial utilizing the [Ubuntu With Cockpit Flist](https://forum.threefold.io/t/cockpit-managed-vm-flist-release/3398/7), here, [Create your own Cloud Image for the Threefold Grid](https://youtu.be/T7J4B-eW-18).  this video demonstrates the process of creating the system image and uploading to the [Threefold Hub](hun.grid.tf), if attempting to follow this tutorial Cockpit-RC2 should be utilized. though the steps will be similar to completing this process in any Linux environment utilizing qemu hypervisor.
