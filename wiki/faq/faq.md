@@ -139,7 +139,7 @@
 
 - <details><summary>In a nutshell, what can be said of the Threefold team?</summary>&nbsp;
 
-     ---
+    ---
     The Threefold team is spread across the world and its members built some of the world’s best Internet storage and cloud automation technologies since the ‘90s. 
      ---
 
