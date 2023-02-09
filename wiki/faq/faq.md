@@ -49,62 +49,81 @@
 
 - <details><summary>What is the the Threefold blockchain?</summary>&nbsp;
 
-    ThreeFold blockchain is the layer 0 infrastructure for an open source peer-to-peer (P2P) Internet owned by humanity.
+     ***
+    The ThreeFold blockchain is the layer 0 infrastructure for an open source peer-to-peer (P2P) Internet owned by humanity.
+     ***
     
+
     </details>
 
 - <details><summary>What is the architecture of the Threefold Grid in simple terms?</summary>&nbsp;
 
+     ___
     Essentially, the Threefold Grid is composed of the people using it, the 3node servers offering compute, storage and network resources, and the TF Chain, which is the blockchain of Threefold.
 
     Middleware is also used, such as GraphQL and GrixProxy, to get and organize data from the Threefold Chain.
     Middleware helps to make data available and to manage load.
 
     3nodes store workloads data and can report on their state to the TF Grid and to middleware.
+     ___
 
     </details>
 
 - <details><summary>What is the Threefold Token? What are the uses of the Threefold token (TFT)?</summary>&nbsp;
-
+    
+    ___
     ThreeFold Token (TFT) is a decentralized digital currency used to buy autonomous and decentralized Internet services (compute, storage, applications) on the ThreeFold Network – generated only when active capacity is added to the ThreeFold Grid.
     It has a specific commercial utility, since ThreeFold Tokens were conceived as the designated currency for buying and selling capacity on the ThreeFold Grid.
+    ___
+    
     </details>
 
 - <details><summary>How are Threefold Token (TFT) produced?</summary>&nbsp;
-
+    
+    ___
     ThreeFold Tokens are exclusively produced through a process called farming, which means that TFT are generated only when new Internet capacity is added to the ThreeFold Grid. There is no wasteful mining.
+    ___
 
     </details>
 
 - <details><summary>How are the TFT managed?</summary>&nbsp;
-
+    
+    ___
     TFT are managed by the ThreeFold Blockchain (“TF Chain”).
+    ___
 
     </details>
 
 - <details><summary>What is the difference between Internet capacity and connectivity? Does ThreeFold replace my Internet service provider (ISP)?</summary>&nbsp;
 
+    ___
     In simple terms, the Internet is composed of both capacity and connectivity. Capacity is where the data and resources are being handled, for example in servers. Connectivity is the infrastructure that transfer data and resources between servers. The latter is linked to the typical Internet service provider (ISP).
 
     ThreeFold’s technology enables distributed capacity generation, but Threefold doesn’t deal in connectivity.
     3nodes offer Internet capacity, but farmers still rely on connectivity provider like the usual Internet service provider (ISP).
+    ___
 
     </details>
 
 - <details><summary>I've read that Threefold is Carbon Negative, what does this imply?</summary>&nbsp;
 
+    ___
     In short, to accomplish a Carbon Negative footprint, Threefold has a general strategy and many tactics that are all aimed at building and contributing to a regenerative and resilient environment. In long, read this [post](https://forum.threefold.io/t/supporting-initiatives-to-regenerate-the-planet/).
+    ___
 
     </details>
 
 - <details><summary>Who are the people working for Threefold?</summary>&nbsp;
 
+    ___
     People from all over the world contribute to the growth of Threefold. Meet them [here](https://threefold.io/people/).
+    ___
 
     </details>
 
 - <details><summary>Who are the co-founders of Threefold?</summary>&nbsp;
 
+    ___
     The [co-founders](https://threefold.io/memberships/cofounders/) of Threefold are:
 
     - [Adnan Fatayerji](https://www.threefold.io/people/adnan-fatayerji/)
@@ -114,57 +133,72 @@
     - [Owen Kemp](https://www.threefold.io/people/owen-kemp/)
     - [Rob Van Mieghem](https://www.threefold.io/people/rob-van-mieghem/)
     - [Weynand Kuijpers](https://www.threefold.io/people/weynand-kuijpers/)
+    ___
 
     </details>
 
 - <details><summary>In a nutshell, what can be said of the Threefold team?</summary>&nbsp;
 
+     ---
     The Threefold team is spread across the world and its members built some of the world’s best Internet storage and cloud automation technologies since the ‘90s. 
+     ---
 
     </details>
 
 - <details><summary>What is the mission of Threefold?</summary>&nbsp;
-
+   
+     ---
     The mission of Threefold is to create a peer-to-peer Internet that can host all of humanity’s digital workloads via smart contract, removing all forms of centralization from global IT systems.
+     ---
 
     </details>
 
 - <details><summary>Who are the partners of Threefold?</summary>&nbsp;
-
+     
+     ---
     Threefold has great [partners](https://threefold.io/partners/) and we are proud of the amazing projects we have done throughout the years. Building the New Internet is a collective project and the Threefold team is always ready to create and collaborate with new partners aligned with our Planet first ethos.
 
     To learn more about our certified farming partners, click [here](https://marketplace.3node.global/index.php?dispatch=companies.catalog).
-
+     ---
+    
     </details>
 
 
 - <details><summary>What are the priorities of Threefold (the Three P of Threefold)? Threefold is a Planet first project, what does it mean?</summary>&nbsp;
-
+ 
+     ---
     Threefold is working for the Planet, the People and Profit, in this very order of importance. Planet comes first as it is our home to us all. A humane enterprise always has people before profit, and serious entrepreneurs know profit cannot be left out of the equation of a thriving project.
+     ---
 
     </details>
 
 
 - <details><summary>I want to farm TFT with a 3node. What are my choices?</summary>&nbsp;
 
+     ---
     There are two possibilities. Either [buy a certified 3node](https://marketplace.3node.global/) (plug n play) or build yourself a <a href="#manual__faq?id=what-are-the-general-requirements-for-a-diy-3node">DIY 3node</a>.
+     ---
 
     </details>
 
 - <details><summary>I want to buy a certified 3node server from a reliable source. Who are Threefold's partners offering certified 3nodes?</summary>&nbsp;
 
+     ---
     You can find the continually growing list of Threefold's partners provoding high-quality 3nodes [here](https://marketplace.3node.global/index.php?dispatch=companies.catalog).
+     --- 
 
     </details>
 
 - <details><summary>I want to help build the new Internet. How can I become a Threefold certified 3node partner?</summary>&nbsp;
-
+    
+     ---
     Apply [here](https://marketplace.3node.global/index.php?dispatch=companies.apply_for_vendor) to become a Threefold certified 3node partner.
-
+     ---
     </details>
 
 - <details><summary>How is Threefold registered as an entity?</summary>&nbsp;
-
+    
+     ---
     Threefold has different registrations and each serves a different purpose.
 
     There is Threefold VZW, in Belgium. Note that *VZW* is Belgium's denotation for non-profit association. Read more [here](https://library.threefold.me/info/legal/#/orgstructure/threefold__threefold_vzw).
@@ -172,18 +206,21 @@
     There is also Threefold DMCC, in Dubai. Read more [here](https://library.threefold.me/info/legal/#/threefold__threefold_dubai).
 
     There is also ThreeFold Tech NV, a software company which owns the IP of the code delivered. Read more [here](https://threefold.tech/) and [here](https://www.crunchbase.com/organization/threefold-tech).
-
+     ---
 
     </details>
 
 - <details><summary>Where is ThreeFold Tech's headquarters?</summary>&nbsp;
 
+     ---
     ThreeFold Tech is located in Lochristi, Oost-Vlaanderen, Belgium.
+     ---
 
     </details>
 
 - <details><summary>Can I have more information on Threefold Tech NV and Threefold S.A.?</summary>&nbsp;
-
+     
+     ---
     Of course. Here are the basic information:
 
     * TF Tech NV (ThreeFold Tech)
@@ -194,6 +231,7 @@
     * ThreeFold S.A. (TF LUX)
       * A public limited liability company under the Company Number B265333, governed by the laws of the Grand Duchy of Luxembourg.
       * ThreeFold S.A., 6, Rue Dicks, 1417, Luxembourg.
+     ---
 
     </details>
   
@@ -201,17 +239,20 @@
 
 
 - <details><summary>Is there a Threefold app for mobile?</summary>&nbsp;
-
+    
+     ---
     Yes! Threefold Connect App (TF Connect App) is available for [Android](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin) and [iOS](https://apps.apple.com/us/app/threefold-connect/id1459845885).
 
     You can use this app to create a Threefold ID, a Threefold Wallet and also a Threefold Farm to link all your 3nodes.
     The Threefold Connect Wallet, with its Stellar payout address, can be used for transactions as well as to receive farming rewards.
     The News section gives you the latest information on the fast Threefold development and growth.
+     ---
 
     </details>
 
 - <details><summary>I want to reach the Threefold community. What are Threefold social links?</summary>&nbsp;
-
+    
+     ---
     You can find links to the Threefold community [here](https://threefold.io/community). Here's a quick list:
 
     - [Threefold Twitter](https://twitter.com/threefold_io)
@@ -224,141 +265,175 @@
     - [Threefold Reddit](https://www.reddit.com/r/threefold/)
     - [Threefold Youtube](https://www.youtube.com/threefoldfoundation)
     - [Threefold LinkedIn](https://www.linkedin.com/authwall?trk=qf&originalReferer=https://threefold.me/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fthreefold-foundation%2F)
-
+     ---
     </details>
 
 - <details><summary>Is there a Discord group for Threefold?</summary>&nbsp;
-
+     
+     ---
     Yes! It’s [right here](https://discord.com/invite/PaQtT7A72E). Threefold is decentralized. This is a community initiative. Come and talk. Let's New Internet!
+     ---
 
     </details>
 
 - <details><summary>How can I reach Threefold Support?</summary>&nbsp;
-
+     
+     ---
     Go on the [Threefold Connect App](#is-there-a-threefold-app-for-mobile) and select Support or go on the [Threefold website](https://threefold.io), accept the cookies and click on the bottom right icon for chat.
-    
+     ---
     </details>
 
 - <details><summary>Is there a Threefold podcast?</summary>&nbsp;
-
+    
+     ---
     Yes, there is a Threefold podcast! Hosted by Kyle Ellicot, it is available to listen on [Spotify](https://open.spotify.com/show/5RPjpvCYECrkq4sAM6hOfq) and on [anchor.fm](https://anchor.fm/threefoldpodcast).
-
+     ---
+    
     </details>
 
 - <details><summary>Who can I write to for a proposal? Where can I send a proposal email for a new partnership opportunity with Threefold?</summary>&nbsp;
-
+    
+     ---
     You can mail your proposal to info@threefold.io or write about your proposal on the [Threefold Forum](http://forum.threefold.io/).
+     ---
 
     </details>
 
 - <details><summary>How can I track and follow the progress and development of Threefold?</summary>&nbsp;
-
+     
+     ---
     There are two main places where you can track the progress of Threefold. Threefold is open source and its developments can be easily tracked on Github.
 
     * You can read about the ongoing Threefold Tech projects [here](https://github.com/orgs/threefoldtech/projects).
     * You can read about the ongoing Threefold Foundation projects [here](https://github.com/orgs/threefoldfoundation/projects?query=is%3Aopen).
+     ---
 
     </details>
 
 - <details><summary>Is there a way to search the FAQ more easily? What is the link for the Threefold FAQ Bot?</summary>&nbsp;
 
+     ---
     There is Threefold FAQ Bot available on Telegram. You can ask the bot any questions on Threefold, and it will find the most related Q&A in the Threefold FAQ.
 
     The link to the Threefold FAQ Bot is the following: https://t.me/TF_FAQ_Bot.
+     ---
 
     </details>
-
-
 
 ## The Technology of Threefold
 
 - <details><summary>What is a 3node?</summary>&nbsp;
-
+    
+     ---
     It is essentially a single server that makes up a larger network of servers which together form the Threefold Grid. Essentially any modern computer can be turned into a 3node (DIY Farming) and you can [buy plug and play 3nodes](https://marketplace.3node.global/index.php) as state of the art modern computer.
+     ---
 
     </details>
 
 - <details><summary>What is the difference between a 3node and a Threefold farm?</summary>&nbsp;
-
+    
+     ---
     A 3node is a single server connected to the Grid. Each 3node is linked to a farm. A farm can be composed of multiple 3nodes. 
+     ---
 
     </details>
 
 - <details><summary>I've read that Threefold built an Operating System (OS) from scratch, is it true?</summary>&nbsp;
-
+    
+     ---
     Indeed, to have a quantum safe technology and nodes capabling on running the widest range of softwares, the team built an operating system from the ground up, the almighty Zero-OS. Read the next question for more info on Zero-OS.
+     ---
 
     </details>
 
 - <details><summary>What is Zero-OS from Threefold?</summary>&nbsp;
-
+    
+     ---
     Zero-OS is a stateless and lightweight operating system designed to host anything that runs on Linux, in a decentralized way. Once installed, Zero-OS locks the hardware and dedicates its capacity to the People’s Internet via the ThreeFold Blockchain.
+     ---
 
     </details>
 
 - <details><summary>Threefold uses Quantum Safe Storage technology, what does it mean?</summary>&nbsp;
 
+     ---
     Quantum computers are theoretically capable of doing huge calculations in a short period of time. By this fact alone, it is a great potential threat to future online safety. Threefold solves this future problem before it even becomes a reality. Indeed, Zero-os can compress, encrypt, and disperse data across the Grid. Learn more [here](https://www2.threefold.io/developer/qsfs/).
+     ---
 
     </details>
 
 - <details><summary>Quantum Safe File System (QSFS) allows for part of the storage to go down and it can self repair, however it’s still attached to a single VM and a single point of failure. Can a QSFS instance be reattached to another VM to recover it?</summary>&nbsp;
 
+     ---
     QSFS is built from storage devices which are distributed and decentralized.
 
     The storage engine is a software running on a VM that can run everywhere.
     If the storage engine needs to run on a different VM the config needs to pushed to the new VM.
     In short, yes Quantum safe file system (QSFS) can be recovered on a different VM. It is not automated yet on Zero-OS. A video tutorial will be shared soon.
+     --- 
 
     </details>
 
 
 - <details><summary>Where does the Threefold Explorer take its data from?</summary>&nbsp;
-
+     
+     ---
     The Threefold Explorer takes its data from this website: https://gridproxy.grid.tf/.
+     ---
 
     </details>
 
 - <details><summary>Is there a way to see the Threefold Grid's metrics?</summary>&nbsp;
-
+    
+     ---
     You can see the Threefold Grid Devnet's metrics on the page [metrics.grid.tf](https://metrics.grid.tf/). The metric tool is using Grafana, an open source visualization web application.
 
     To see the statistics of the Threefold Grid in general, visit the [Threefold Dashboard](https://dashboard.grid.tf/explorer/statistics) and select Statistics in the left menu Explorer.
+     ---
 
     </details>
 
 - <details><summary>How can I connect to the Threefold Planetary Network?</summary>&nbsp;
 
+     ---
     You can connect with your phone by using the Threefold Connect App.
     Simply select the Planetary Network option in the menu.
 
     To connect on a computer, you can download the pre-release vesion of the [Threefold Planetary Network connector](https://github.com/threefoldtech/planetary_network).
- 
+     ---
+    
     </details>
 
 - <details><summary>Where can I download the Threefold Planetary Network connector?</summary>&nbsp;
 
+     ---
     It is available in the Threefold [Planetary Network](https://github.com/threefoldtech/planetary_network) repository on Github.
     You can download pre-release versions [here](https://github.com/threefoldtech/planetary_network/releases) for MAC, Linux and Windows.
+     ---
 
     </details>
 
 - <details><summary>What is Proof-of-Capacity used by Threefold?</summary>&nbsp;
 
+     ---
     Proof-of-Capacity is an algorithm that verifies the Internet capacity provided by the 3nodes. More information can be found [here](https://library.threefold.me/info/threefold#/tfgrid/farming/threefold__proof_of_capacity).
+     ---
 
     </details>
 
 - <details><summary>What is Proof-of-Utilization?</summary>&nbsp;
 
+     ---
     [Proof-of-Utilization](https://library.threefold.me/info/manual/#/tfgrid/farming/threefold__proof_of_utilization) is the underlying mechanisms that verifies the utilization of Internet capacity on the ThreeFold Grid.
 
     Every hour, the utilization is recorded in [TFChain](https://library.threefold.me/info/manual/#/tfgrid/farming/threefold__tfchain) and the user is charged for the Internet capacity used on the ThreeFold Grid. Discount calculated in line with the amount of [TFT](https://library.threefold.me/info/manual/#/tfgrid/farming/threefold__threefold_token) users have in their accounts on TFChain. Learn more about the discount [here](https://library.threefold.me/info/manual/#/tfgrid/farming/threefold__staking_discount_levels).
+     ---
 
     </details>
 
 - <details><summary>How does Proof-of-Utilization work? How is the Threefold Token (TFT) distributed when there is utilization on the Threefold Grid?</summary>&nbsp;
 
+     ---
     Here are the general steps of the Proof-of-Utilization process:
 
     1. A user reserves Internet capacity on a given set of [3Nodes](https://library.threefold.me/info/manual/#/tfgrid/farming/threefold__3node). 
@@ -378,46 +453,53 @@
     To see the Proof-of-Utilization distribution flow chart, check this [link](https://library.threefold.me/info/threefold#/tokens/threefold__token_overview).
 
     *Note: For billing purposes, ThreeFold DAO will check if the workload comes from a known sales channel and/or solution provider. If yes, then the billing smart contract code will know how to distribute the TFTs. If the sales channel and/or solution provider is not known, then the 50% will go to a DAO owned Community Grant Wallet.
-
+     ---
     </details>
-
-
 
 ## Buying and Transacting TFT
 
 - <details><summary>How can I buy TFT?</summary>&nbsp;
 
+     ---
     There are many ways to do this. You can buy on [PancakeSwap](https://pancakeswap.finance/), on [BTC-Alpha](https://btc-alpha.com/en/trade/TFT_BTC?layout=standard&type=spot) or on the [GetTFT website](https://gettft.com/gettft/). For more information, check [this link](https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy). 
+     ---
 
     </details>
 
 - <details><summary>What is the maximum supply of Threefold tokens? What is the current supply of Threefold tokens?</summary>&nbsp; 
 
+     ---
     The maximum token supply of the Threefold Token (TFT) is 4 billion. You can read more about this [here](https://library.threefold.me/info/threefold#/tokens/threefold__stats_token_overview_farmed).
 
     As of now, more than 880 000 000 Threefold tokens (TFT) have been farmed. 
+     ---
 
     </details>
 
 - <details><summary>How is the Threefold Token(TFT) created (minted)? Threefold Token is a pure utility token. What does this mean?</summary>&nbsp;
 
+     ---
     Threefold Tokens (TFT) are created (minted) by the ThreeFold Blockchain (TFChain) only when new Internet capacity is added to the ThreeFold Grid by farmers. For this reason, TFT is a pure utility token as minting is solely the result of farming on the Threefold Grid.
+     ---
 
     </details>
 
 - <details><summary>Where can I find TFT, concretely? On which blockchains is TFT available?</summary>&nbsp;
 
+     ---
     - Stellar Chain
       - Most TFT exist on Stellar at the moment and this is the chain where all farming rewards are currently distributed.
     - Threefold Chain
       - the new ThreeFold blockchain that’s used for billing on Grid v3 and will be used to pay Grid v3 farmers at some point in the future.
     - Binance Smart Chain
       - Binance Smart Chain (BSC) - this TFT exists mostly for buying, selling, and providing liquidity on Pancake Swap 2.
+     ---
 
     </details>
 
 - <details><summary>What are the uses for each different blockchains offering TFT?</summary>&nbsp;
 
+     ---
     - Threefold Chain (TF Chain)
       - TF Chain is used to store the full infrastructures of
         - farms
@@ -431,13 +513,15 @@
       - TFT is minted on Stellar Chain
     - Binance Smart Chain (BSC)
       - TFT can be traded and moved on Binance Smart Chain
-
+      
     Note that TFT is fundamentally a utility token. It is Internet capacity farmed by TF Farmers and used by TF Users.
+     ---
 
     </details>
 
 - <details><summary>What is the interplay between Stellar Chain and TF Chain?</summary>&nbsp;
 
+     ---
     Stellar is basically a payment network. But we also need a decentralized way to store the full infrastructure of farms, nodes, contracts, billing reports etc. This is available now on TFChain, as you can see [here](https://graphql.grid.tf/graphql). 
 
     Stellar remains very good when it's purely about fast payment, while TF Chain is used as the decentralized blockchain of the New Internet.
@@ -445,17 +529,21 @@
     It's why both remain active, with a bridge in-between to enable transfer of the same tokens on two blockchain infrastructures.
 
     Note that TFT is also available on BSC.
+     ___
 
     </details>
 
 - <details><summary>Is there a bridge between Binance Smart Chain (BSC) and Stellar to transfer TFT?</summary>&nbsp;
 
+     ---
     Yes! It's over [here](https://bridge.bsc.threefold.io/).
+     ---
 
     </details>
 
 - <details><summary>What are the different Threefold bridges, TFChain-Stellar Bridge and BSC-Stellar Bridge? How can I go from TF Chain to Stellar chain to Binance Smart Chain?</summary>&nbsp;
 
+     ---
     In short, there is the [BSC-Stellar Bridge](https://bridge.bsc.threefold.io/) and the [TF Chain-Stellar](https://dashboard.grid.tf/) Bridge.
 
     The BSC-Stellar Bridge is used to go between the Stellar Chain and Binance Smart Chain (BSC).
@@ -464,28 +552,33 @@
     To go from BSC to TF Chain, or from TF Chain to BSC, you need to use the two bridges.
 
     BSC can be used to sell/buy TFT while TF Chain can be used to deploy Dapps on https://play.grid.tf
-
+     ---
     </details>
 
 - <details><summary>How can I bridge TFT from Stellar chain to TF Chain and vice versa?</summary>&nbsp;
 
+     ---
     Go on the [Threefold Dashboard](https://dashboard.grid.tf/), sign-in with your Polkadot extension account and then go in the section Twin if you aren't there already. Click on *Bridge TFT from Stellar* to transfer TFT from Stellar to TF Chain.
     Click on *Bridge TFT to Stellar* to transfer TFT from TF Chain to Stellar.
 
     Note: If you are on Threefold Connect App, you can export your account to the Polkadot extension. Look at the section *Move Farm from the TF app to the TF Dashboard (polkadot.js)* in the Threefold Farming Guide Part 2.
+     ---
 
     </details>
 
 - <details><summary>How can I bridge TFT from Binance Smart Chain (BSC) to Stellar (and vice versa)?</summary>&nbsp;
 
+     ---
     To use the [BSC-Stellar Bridge](https://bridge.bsc.threefold.io/), read the following steps. If this is your first time with MetaMask and BSC, read the section <a href="#manual__faq?id=how-to-set-up-tft-on-metamask">How to Set Up TFT on Metamask</a> below.
 
     Note: Always start with a small amount the first time you try the Bridge.
+     ---
 
     </details>
 
 - <details><summary>How to use the BSC-Stellar Bridge</summary>&nbsp;
 
+     ---
     To use the BSC-Stellar Bridge, follow the following steps. If this is your first time with MetaMask and BSC, read the section Setting up TFT on Metamask.
 
     Note: Always start with a small amount the first time you try the Bridge.
@@ -552,11 +645,13 @@
     * There is also fixed fee of 0.01 TFT when using the Stellar Blockchain.
     * Gas fees on BSC is usually around 5-20 gwei.
     * You can try the bridge later if gas fees are high at the moment of your transaction.
+     ---
 
     </details>
 
 - <details><summary>How to Set Up TFT on Metamask</summary>&nbsp;
 
+     ---
     To set up Threefold token (TFT) on Metamask, you can follow those simple steps:
 
     * Download Metamask [here](https://metamask.io/download.html). Then, install the Metamask extension in your local browser.
@@ -571,31 +666,37 @@
     * Add TFT token in Metamask
       * go to custom token
       * write the following contract address:  `0x8f0FB159380176D324542b3a7933F0C2Fd0c2bbf`.
+     ---
 
     </details>
 
 - <details><summary>How to set up a Stellar address for TFT transactions?</summary>&nbsp;
 
+     ---
     In general, to set up a Stellar address to transact TFT on Stellar chain, you can use any Stellar wallet that has a TFT trustline enabled. Note that on Stellar chain, fees are paid in XLM. 
 
     The easiest way is to simply create an account on the Threefold Connect App (for [Android](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin) and [iOS](https://apps.apple.com/us/app/threefold-connect/id1459845885)) and to then use the TFT wallet of the app, which has by default a TFT trustline on Stellar chain and also comes with 1 XLM sponsored by Threefold for transaction fees.
+     ---
 
     </details>
 
 - <details><summary>How long does it take when you use the BSC-Stellar Bridge?</summary>&nbsp;
 
+     ---
     The bridge will process deposits/withdrawals within 48 hours.
-    
+     ---
     </details>
 
 - <details><summary>What are the cost when bridging from Stellar to MetaMask and from MetaMask to Stellar?</summary>&nbsp;
 
+     ---
     It will cost 50 TFT for the former, and 1 TFT for the latter. There is a fixed fee of 0.01 TFT when using the Stellar blockchain. Those fees are taken from the total of what you are bridging. For example, if you Bridge 80 TFT, from Stellar to MetaMask, you will receive 30 TFT.
-
+     ---
     </details>
 
 - <details><summary>What is the network information to access BSC for the Threefold token? What is the token address for adding the token in the MetaMask app?</summary>&nbsp;
 
+     ---
     Here it is:
     * Mainnet
     * Network Name: Smart Chain
@@ -607,173 +708,210 @@
     BSC TFT Token Address: 0x8f0FB159380176D324542b3a7933F0C2Fd0c2bbf
 
     For more information, read [this](https://library.threefold.me/info/threefold#/tokens/threefold__tft_bsc_metamask).
+     ---
 
     </details>
 
 - <details><summary>How can I trade TFT on Pancake Swap? How can I add TFT on Pancake Swap?</summary>&nbsp;
 
+     ---
     When searching for a Token on Pancake Swap (Select a Token), paste the TFT Token Address : 0x8f0FB159380176D324542b3a7933F0C2Fd0c2bbf, then select TFT. You can now trade TFT on Binance Smart Chain.
-
+     ---
     </details>
 
 - <details><summary>How can I swap Threefold tokens (TFT) on Stellar Blockchain?</summary>&nbsp;
-
+    
+     ---
     It is possible to swap TFT on Stellar Chain. Here's how to do it with [StellarX](https://stellarx.com).
 
     First, make sure your wallet has a TFT trustline. Second, go on [StellarX Swap section](https://stellarx.com/swap). Third, choose TFT and the other token of the swapping pair then swap. If you do not see TFT, make sure you have a TFT trustline linked to your wallet.
+     ---
 
     </details>
 
 - <details><summary>On my website, users can donate TFT on the Stellar Chain. Is there a way for users on my website to easily track the total sum of TFT donated?</summary>&nbsp;
-
+    
+     ---
     There is a simple way to do this. The [Stellar Explorer](https://stellar.expert/explorer/public) has an embeddable widget that you can insert on any website, including WordPress. 
 
     Simply go to the account you’re interested in showing the balance of, look for “Balance History”, select TFT, and finally click the small icon next to the heading to reveal the embed code. In your WordPress page editor, in HTML mode, paste the embed code.
-
+     ---
     </details>
-
-
 
 ## TF Connect App TF Dashboard GraphQL Grid Proxy and Polkadot Substrate
 
 - <details><summary>What is the Threefold Connect App download link?</summary>&nbsp;
 
+    ---
     Threefold Connect App (TF Connect App) is available for download on [Android](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin) and on [iOS](https://apps.apple.com/us/app/threefold-connect/id1459845885).
-
+     ---
+    
     </details>
 
 - <details><summary>What is the Threefold Dashboard link?</summary>&nbsp;
 
+    ---
     To go on the Threefold Dashboard, use this link [https://dashboard.grid.tf/](https://dashboard.grid.tf/).
-
+     ---
+    
     </details>
 
 - <details><summary>To access the TF Dashboard, I need to use the Polkadot Extension. What is the link for the Polkadot Extension (polkadot.js)? Which browsers support the Polkadot Extension?</summary>&nbsp;
 
+    ---
     The link to the Polkadot Extension is the following: [https://polkadot.js.org/extension/](https://polkadot.js.org/extension/).
 
     Polkadot.js is available for the following browsers: Chrome, Brave and Firefox. To install it on Brave, use the Chrome link.
-
+     ---
+    
     </details>
 
 - <details><summary>Is there a way to create or import another wallet in TF Connect App?</summary>&nbsp;
 
+    ---
     The TF Connect App supports Stellar and TF Chain wallets. The app by default can create one wallet. To add any number of additional wallets, you must create a wallet on Stellar or TF Chain and then import it with the import function.
-
+     ---
+    
     </details>
 
 - <details><summary>I created a farm on the TF Chain. On the TF Connect App Farmer Migration section, my farm is under Other v3 farms, is this normal?</summary>&nbsp;
 
+    ---
     Yes this is normal. Farms created on TF Chain instead of the TF Connect App will appear in *Other v3 farms*.
-
+     ---
+    
     </details>
 
 - <details><summary>I am trying to access my wallet in the Threefold Connect App. It worked fine before, but now I just get a white screen. What does it mean and what can I do?</summary>&nbsp;
 
+     ---
     On the TF Connect App, when you get a white screen, it means that there is a connection issue. It can help to try other networks; maybe try switching between ethernet cable or wifi. Or you can also try it later when the connection might be more stable.
-
+     ---
+    
     </details>
 
 - <details><summary>When I open the Threefold Connect App, I get the error: Error in initialization in Flagsmith. How can I fix this issue?</summary>&nbsp;
 
+     ---
     To fix this Flagsmith error message on the Threefold Connect app, you can try the following methods:
 
     * Check your internet connection
     * Update your phone current operating system (OS) version
     * Update the date and time on your phone
-
+     ---
+    
     </details>
 
 - <details><summary>I have some problems connecting to the Polkadot extension. What can I do?</summary>&nbsp;
 
+    ---
     You could try to delete the cache in your browser or try to open it with another browser (Firefox/Brave/Chrome). Sometimes, removing the account and re-entering the seed phrase can also help to fix some issues. Use your seed phrase carefully.
 
     If you have issues on Firefox, [refreshing the browser](https://support.mozilla.org/en-US/kb/refresh-firefox-reset-add-ons-and-settings#w_refresh-firefox) can help.
-
+     ---
 
     </details>
 
 - <details><summary>Apart form the Threefold Connect App Wallet, how can I check my TFT balance?</summary>&nbsp;
 
+    ---
     You can go on [Stellar.Expert](https://stellar.expert). With your wallet address, you will be able to see your transactions and wallet details.
-
+     ---
+    
     </details>
 
 - <details><summary>Is it possible to export the transaction history of a wallet to a CSV file?</summary>&nbsp;
 
+    ---
     Yes, every blockchain has an explorer function and these explorer functions allow you to see transactions and export them. TFT is on 2 chains at the moment: Stellar and Polkadot.
 
     For Stellar based TFT’s there is an explorer here: https://stellar.expert/explorer/public. Enter you wallet address in the top left search box, and after pressing enter you should see every transaction related to your account.
 
     If you are not deploying/doing things on the TF Grid (dev, test or mainnet) you will not have transferred any tokens to the TF Chain, therefore all your tokens/wallets will be on the Stellar Chain.
-
+     ---
+    
     </details>
 
 - <details><summary>What is the role of the middleware?</summary>&nbsp;
 
+    ---
     The middleware takes data from the TF blockchain and present it in a searchable manner.
+     ---
 
     </details>
 
 - <details><summary>What is Polkadot UI? What can I do with Polkadot UI?</summary>&nbsp;
 
+    ---
     It is based on substrate, a framework for building blockchains in the polkadot ecosystem
 
     You can use polkadot UI to querry information about farms on TF Chain.
 
     For example, on Polkadot UI, you can see blocks minted on TF Chain. Have a look [here](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/explorer).
-
+     ---
+    
     </details>
 
 - <details><summary>How can I use GraphQl to find information on the Threefold Grid?</summary>&nbsp;
-
+    
+    ---
     To find information on the Threefold Grid with GraphQL, go to this [link](https://graphql.grid.tf/graphql). On the left menu, choose the parameters you want to search and write the necessary information, if needed, then click on the Play button in the middle section, at the top. 
 
     Here's an example of a query, where we want to find all the farms containing "duck" in their name.
-
+    
+    ```
     query MyQuery {
       farms(where: {name_contains: "duck"}) {
         name
         farmID
       }
     }
+    ```
 
     This code can be written automatically if you simply select the proper parameters in the left menu.
     For the previous example, we had to click on "farms", then "where", and then "name_contains". After clicking on "name_contains", you need to add the words you are looking for, in this example we had "duck". Further down the menu, we simply had to click on "farmID" and "name", and then click the Play button. The results of the query appear on the right screen.
-
+     ---
+    
     </details>
 
 - <details><summary>How can I use Grid Proxy to find information on the Threefold Grid and 3nodes?</summary>&nbsp;
 
+    ---
     To find information on the Threefold Grid with GraphQL, you need to write this URL: https://gridproxy.grid.tf/, followed by your specific query. Here's an example if we wanted to see all the available farm on the TF Grid that has "duck" in its name:
 
     https://gridproxy.grid.tf/farms?name_contains=duck
 
     The Grid Proxy is appropriate for high volume application.
     You can find the parameters to be written in the URL when visiting the [GraphQL explorer](https://graphql.grid.tf/graphql).
-
+     ---
+    
     </details>
 
 - <details><summary>Who is hosting GraphQL and Grid Proxy on the Threefold Grid?</summary>&nbsp;
 
+    ---
     GraphQL and Grid Proxy are hosted by Threefold for everyone to use.
 
     Note that it is also possible to run your own instance of those tools.
-
+     ---
+    
     </details>
 
 - <details><summary>I do not remember the name (Threefold 3bot ID) associated with my seed phrase on the Threefold Connect app. Can I recover my TF Connect app account with only the seed phrase and not the name (3bot ID) associated with it?</summary>&nbsp;
 
+    ---
     If you forgot the name associated with your seed phrase on the TF Connect app, you can always create a new identity (Threefold 3bot ID) and import your wallet using the old seed phrase. 
 
     Since the Connect App is also used for identity and authentication, you need both the name (3bot ID) and seed phrase to fully recover your account. The wallet is only linked to the seed phrase and not the name (3bot ID).
-
+     ---
+    
     </details>
 
 ## Threefold Commercial Grid Services
 
 - <details><summary>What is the concept and the goals of the Threefold Commercial Grid Services project?</summary>&nbsp; 
 
+     ---
     The goal of the Threefold Commercial Grid services project is to prove that the current state of the Threefold Grid is enough to start a commercial business. 
 
     The current TF technology stack is a good set of building blocks to create a service business on. While proving this by doing it we also create content that explains in steps how to use the technical building blocks and put it all together into a full fledged solution.
@@ -789,11 +927,13 @@
     * Attract non technical users who pay FIAT.
     * Use FIAT to fund and reward Community contribution
       * Documentation updates, weblet improvements, outreach, teaching, etc.
+     ---
 
     </details>
 
 - <details><summary>Who can participate to the Threefold Commercial Grid Services?</summary>&nbsp;
 
+    ---
     This is meant for any internet user, from the basic user to the advanced developer. 
     The services foreseen have non development and IT professionals use cases.
 
@@ -809,17 +949,21 @@
         * Kubernetes
         * Caprover
         * More
+    ---
 
     </details>
 
 - <details><summary>What is the method of payment of the Threefold Commercial Grid Services?</summary>&nbsp;
-
+    
+    ---
     Onboarding is meant through FIAT. It is comparable to any other online service provider experience.
+     ---
 
     </details>
 
 - <details><summary>How can I contribute to the Threefold Commercial Grid Services? What is the onboarding process to join the Threefold Commercial Grid Services?</summary>&nbsp;
-
+    
+    ---
     * We are actively writing the story with requirements for this online business 
       * Contribute via [GitHub](https://github.com/threefoldtech/home/issues/1378)
     * Give us feedback 
@@ -827,21 +971,25 @@
       - [Threefold General TG Channel](https://t.me/threefold)
       - [Threefold Farmer TG Channel](https://t.me/threefoldfarmers)
       - [TF Grid Tester TG Channel](https://t.me/threefoldtesting)
+     ---
 
     </details>
 
 - <details><summary>What does it mean to be a solution provider on the Threefold Grid?</summary>&nbsp;
 
+    ---
     A solution provider offers a solution on the Threefold Grid and receives 50% of the TFT utilization revenues from the workload related to the solution.
 
     A "solution" is something running on the grid, created by a community member. This can be brought forward to the council, who can vote on it to recognize it as a solution. On contract creation, a recognized solution can be referenced, in which case part of the payment goes toward the address coupled to the solution.
 
     To become a solution provider, read the next question.
+     ---
 
     </details>
 
 - <details><summary>How can I become a solution provider on top of the Threefold Grid?</summary>&nbsp;
 
+    ---
     Threefold uses the Proof-of-Utilization distribution where 50% of the TFT utilization revenues goes to the solution provider offering a solution. If there is no solution provider associated with the deployment, the 50% revenues goes to a DAO owned Community Grant Wallet.
 
     There are a few steps to follow to become a solution provider:
@@ -851,20 +999,26 @@
     2. Then write a [Threefold Forum post](https://forum.threefold.io/c/threefold-grid-utilization/solutions-being-created/76) explaining what the solution provider does
 
     3. Once the two first steps are done, a DAO proposal will be launched to decide if the solution is approved
+     ---
 
     </details>
 
 - <details><summary>What is the relation between a solution provider and a sales channel?</summary>&nbsp;
-
+    
+    ---
     Those two concepts are closely linked.
 
     On a technical level, the solution provider and the sales channel constitute a simple mechanism whereby up to 50% of the TFT spent on a deployment can be redirected to another wallet. The object in TF Chain that makes this possible, by linking the deployment contract and the wallet to be paid, is called a “solution provider”. This on-chain concept is thus called a solution provider, but it enables both solution providers and sales channels.
+     ---
 
     </details>
 
 - <details><summary>How can I receive a solution provider ID?</summary>&nbsp;
 
+    ---
     To receive a solution provider ID, you need to get approved as a solution provider.
+     ---
+     
 
  </details>
 </details>
@@ -1327,12 +1481,14 @@
     </details>
 
 - <details><summary>I am working with Terraform and I am using the example in Terraform Provider Grid. How can I use the example main.tf file with environment variables? Why am I getting the message Error: account not found, when deploying with Terraform?</summary>&nbsp;
-
+    
+    
     This Q&A is linked with the main.tf file in the [QSFS section of the Threefold Tech repository](https://github.com/threefoldtech/terraform-provider-grid/blob/development/examples/resources/qsfs/main.tf).
 
     This error happens when you did not properly set your environment variables.
     In the main.tf file, add those lines at the top:
-
+   
+    ```
     > variable "MNEMONICS" {
     > 
     >   type        = string
@@ -1372,9 +1528,10 @@
     >    SSH_KEY = "${var.SSH_KEY}" 
     > 
     >   } 
-
+    ```
+    
     Note: Make sure that you properly set your variables in the file env.tfvars.
-
+    
     </details>
 
 - <details><summary>Is there a command line tool for Terraform when deploying on the Threefold Grid?</summary>&nbsp;
