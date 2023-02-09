@@ -1,9 +1,17 @@
 # TFGrid 3.0 Whats There To Know
 
 - [Storage Concepts](tfgrid3_storage_concepts)
-- [Network Concepts]
+- [Network Concepts](tfgrid3_network_concepts)
 
-## Networking
+___
+<details><summary>
+
+## Workload Networking Overview 
+___
+
+</summary>
+
+<h2>Types Of Networks On The Grid</h2>
 
 ### Znet Networks (Wiregaurd Based)
 
@@ -20,7 +28,10 @@ When you want to have a public IP assigned to your workload, you need to reserve
 
 When deploying with a Public IP there is no special configuration needed to configure your workload to be exposed to the internet, for workloads that are deployed without public I.P. addresses,  Threefold also provides [Web Gateway technology](https://library.threefold.me/info/threefold#/technology/threefold__webgw?id=webgw-20) a very cost-efficient technology to help with exposing your workloads
 
+<details><summary>
+
 ### How Web Gateways Work
+</summary>
 
 Along side your VM workload a  `domain reservation` workload can be created that can be 
 - `prefix` based e.g `mywebsite` that will internally translate to `mywebsite.ghent01.devnet.grid.tf` 
@@ -35,9 +46,16 @@ And then you need to specify the yggrassil IP of your backend service, so the ga
 As a user, you have two options
 - let the gateway terminate the TLS traffic for you and communicate with your workloads directly 
 - let the gateway forward the traffic to your backend and you do the termination yourself (the recommended way if you are doing any sensitive business)
+    </details>
+</details>
 
+___
+<details><summary>
 
-## Compute
+## Compute Workloads Overiew
+___
+</summary>
+
 
 The simplest of Compute deployments is VM workload, This can either be A Full Fledged Linux Virtual Machine Or a [flist-based](@threefold:zos_fs) container
 
@@ -56,6 +74,7 @@ ZOS injects its own generic kernel while booting the container based on the cont
 
 We leverage the VM primitive to allow provisioning kubernetes clusters across multiple nodes based on k3os flist.
 
+</details>
 
 ## Exploring the capacity
 
@@ -63,13 +82,10 @@ You can easily check using [explorer-ui](@explorer_home) , also to plan your dep
 
 ## Getting started
 
-Please check [Getting started](https://library.threefold.me/info/manual/#/getstarted/manual__tfgrid3_getstarted) to get the necessary software / configurations
+For more detailed information before you get started deploying check out
 
-
-For detailed information check
-
-- [Components Interaction](@grid3_components)
-- [Definitions](@grid3_definitions)
+- [How Threefold Grid Components Interact](@grid3_components)
+- [Definitions On The Threefold Grid](@grid3_definitions)
 - [ZOS Primitives](threefold:tfgrid_primitives)
 - [Getting started](https://library.threefold.me/info/manual/#/getstarted/manual__tfgrid3_getstarted)
 - [Proof of Utilization](@proof_of_utilization_manual)
