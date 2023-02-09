@@ -526,4 +526,68 @@ It is simple. The main steps are:
 	That's it! You've swapped TFT from Stellar Chain to TFChain.
 </details>
 
+# Deploying Your First Workload 
+
+<details><summary>Choose Your Network</summary>
+
+- Choose one of the networks:
+  -  https://play.dev.grid.tf for Devnet.
+  -  https://play.qa.grid.tf for QAnet.
+  -  https://play.test.grid.tf for Testnet.
+  -  https://play.grid.tf for Mainnet.
+
+- Make sure you have an activated [profile](weblets_profile_manager)
+</details>
+
+
+
+<details><summary>Configure Your VM</summary>
+
+- Click on the **Virtual Machine** tab
+
+
+<img src="https://library.threefold.me/info/manual/getstarted/manual__new_vm1.png?raw=true" width="40%" height="40%">
+
+- Fill in the instance name: it's used to reference the VM in the future.
+- Choose the image from the drop down (e.g Alpine, Ubuntu) or you can click on `Other` and manually specify the flist URL and the entrypoint.
+- `Public IPv4` flag gives the virtual machine a Public IPv4
+- `Public IPv6` flag gives the virtual machine a Public IPv6
+- `Planetary Network` to connect the Virtual Machine to Planetary network
+- Choose the node to deploy on which can be
+  - Manual: where you specify the node id yourself
+  - Automatic: Suggests nodes list based on search criteria e.g `country`, `farm`, capacity..
+  
+
+<img src="https://library.threefold.me/info/manual/getstarted/manual__new_vm2.png?raw=true" width="70%" height="70%">
+
+Clicking on enviornment allows you to define environment variables to pass to the virtual machine.
+> Note the Public SSH key in the profile is automatically used as variable `SSH_KEY` passed to all Virtual Machines
+
+<img src="https://library.threefold.me/info/manual/getstarted/manual__new_vm3.png?raw=true" width="70%" height="70%">
+
+You can attach one or more disks to the Virtual Machine by clicking on the Disks tab and the plus `+` sign and specify the following parameters
+
+- Disk name
+- Disk size
+- Mount point
+
+
+<img src="https://library.threefold.me/info/manual/getstarted/manual__new_fullvm7.jpg" width="70%" height="70%">
+
+- `Network Name`: It's used for Wireguard's private network.
+- `Network IP Range`: It's a private subnet for Wireguard's network. You could use the auto-generated one or replace it with a **private** subnet.
+
+</details>
+
+<details><summary>Find The Details of a Deployed VM</summary>
+
+in the bottom of the page you can see a list of all of the virual machines you deployed. you can click on `Show details` for more details
+
+
+<img src="https://library.threefold.me/info/manual/getstarted/manual__weblet_vm5.png?raw=true">
+
+You can also go to JSON tab for full details
+
+<img src="https://library.threefold.me/info/manual/getstarted/manual__weblet_vm6.png?raw=true">
+
 

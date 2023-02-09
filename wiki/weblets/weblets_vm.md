@@ -2,12 +2,18 @@
 
 Deploy a new virtual machine on the Threefold Grid
 
+<details><summary>Choose Your Network</summary>
+
 !!!include:weblets_play_go
 
 - Make sure you have an activated [profile](weblets_profile_manager)
-- Click on the **Virtual Machine** tab
+</details>
 
-**Process** :
+
+
+<details><summary>Configure Your VM</summary>
+
+- Click on the **Virtual Machine** tab
 
 ![](img/new_vm1.png)
 
@@ -35,6 +41,10 @@ You can attach one or more disks to the Virtual Machine by clicking on the Disks
 
 - `Network Name`: It's used for Wireguard's private network.
 - `Network IP Range`: It's a private subnet for Wireguard's network. You could use the auto-generated one or replace it with a **private** subnet.
+
+</details>
+
+<details><summary>Find The Details of a Deployed VM</summary>
 
 in the bottom of the page you can see a list of all of the virual machines you deployed. you can click on `Show details` for more details
 
